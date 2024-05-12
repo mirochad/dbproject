@@ -1,0 +1,5 @@
+INSERT INTO food_group (name) VALUES ('From Meat');
+INSERT INTO food_group (name) VALUES ('From Fish');
+INSERT INTO food_group (name) VALUES ('From Vegetables');
+INSERT INTO food_group (name) VALUES ('Legumes');
+INSERT INTO food_group (name) VALUES ('Drinks');

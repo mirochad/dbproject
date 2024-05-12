@@ -1,0 +1,5 @@
+INSERT INTO theme (name) VALUES ('Easter');
+INSERT INTO theme (name) VALUES ('Christmas');
+INSERT INTO theme (name) VALUES ('Village');
+INSERT INTO theme (name) VALUES ('City');
+INSERT INTO theme (name) VALUES ('Island');

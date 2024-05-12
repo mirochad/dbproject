@@ -1,0 +1,5 @@
+INSERT INTO meal_time (name) VALUES ('Breakfast');
+INSERT INTO meal_time (name) VALUES ('Before Lunch');
+INSERT INTO meal_time (name) VALUES ('Lunch');
+INSERT INTO meal_time (name) VALUES ('Before Dinner');
+INSERT INTO meal_time (name) VALUES ('Dinner');

@@ -1,0 +1,5 @@
+INSERT INTO qualification (name, ranks) VALUES ('C Cook', 5);
+INSERT INTO qualification (name, ranks) VALUES ('B Cook', 4);
+INSERT INTO qualification (name, ranks) VALUES ('A Cook', 3);
+INSERT INTO qualification (name, ranks) VALUES ('Chef Assistant', 2);
+INSERT INTO qualification (name, ranks) VALUES ('Chef', 1);
